@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "produto": "Caneta",
+    "quantidade": 100,
+    "valor": 3.50
+  },
+  {
+    "id": 2,
+    "produto": "Lapis",
+    "quantidade": 200,
+    "valor": 1.30
+  },
+  {
+    "id": 3,
+    "produto": "Caderno",
+    "quantidade": 340,
+    "valor": 15.40
+  },
+  {
+    "id": 4,
+    "produto": "Estojo",
+    "quantidade": 80,
+    "valor": 7.50
+  }
+
+
+]
